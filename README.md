@@ -3,3 +3,5 @@ Repository for OOP lab 1
 
 
 Learning to use Git
+
+First commit change
